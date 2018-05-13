@@ -1,0 +1,111 @@
+######################Who question########
+who is George Washington?
+my system answer:  (Weight0.8)<=>  'George Washington' (February 22, 1732- , 1799) was an American statesman and soldier who served as the first President of the United States from 1789 to 1797 and was one of the Founding Fathers of the United States.
+
+Correct answer:George Washington (1732-99) was commander in chief of the Continental Army during the American Revolutionary War (1775-83) and
+served two terms as the first U.S. president, from 1789 to 1797.
+The son of a prosperous planter, Washington was raised in colonial Virginia.
+
+Who is Barack Obama?
+my system answer: => (Weight0.8)<=>  'Barack Hussein Obama II' (; born August 4, 1961) is an American politician who served as the 44th President of the United States from January 20, 2009 to January 20, 2017.
+
+who is Osama Bin Laden?
+my system answer: => (Weight0.8)<=> ), often anglicized as 'Osama bin Laden' (; March 10, 1957 – May 2, 2011), was a founder of , the organization responsible for the September 11 attacks in the United States and many other mass-casualty attacks worldwide.
+
+
+
+who is Donald Trump?
+my system answer: => (Weight0.8)<=>  'Donald John Trump' (born June 14, 1946) is the 45th and current President of the United States, in office since January 20, 2017.
+
+correct answer:New York City real estate developer and reality TV star Donald Trump (1946- ) was elected America's 45th president in November 2016. The billionaire businessman ran as a Republican and scored an upset victory over his Democratic opponent, Hillary Clinton.
+
+who is Mike Pence?
+my system answer: => (Weight0.8)<=>  'Michael Richard Pence' (born June 7, 1959) is an American politician and lawyer serving as the 48th and current Vice President of the United States, since January 20, 2017.
+
+
+
+who is Abraham Lincoln?
+my system answer: => (Weight0.8)<=>  'Abraham Lincoln' (February 12, 1809&nbsp;– April 15, 1865) was an American statesman and lawyer who served as the 16th President of the United States from March 1861 until his assassination in April 1865.
+
+####what question##########
+
+what is Greek Fire?
+my system answer: => (Weight0.4)<=> Although usage of the term "Greek fire" has been general in English and most other languages since the Crusades, original Byzantine sources called the substance a variety of names, such as "sea fire" (Medieval Greek: πῦρ θαλάσσιον pŷr thalássion), "Roman fire" ( pŷr rhōmaïkón), "war fire" ( polemikòn pŷr), "liquid fire" ( hygròn pŷr), "sticky fire" ( pŷr kollētikón) or "manufactured fire" ( pŷr skeuastón).
+
+possible correct answer: Greek fire is an incendiary weapon used by the Eastern Roman Empire that was first developed .
+
+what is Football?
+my system answer: => (Weight0.8)<=>]] 'Football' is a family of team sports that involve, to varying degrees, kicking a ball with a foot to score a goal.
+
+what is Cricket?
+my system answer: => (Weight0.8)<=>  'Cricket' is a bat-and-ball game played between two teams of eleven players each on a cricket field, at the centre of which is a rectangular pitch with a target at each end called the wicket (a set of three wooden stumps upon which two bails sit).
+
+
+what is Computer?
+my system answer:=> (Weight0.8)<=>  A 'computer' is a device that can be instructed to carry out sequences of arithmetic or logical operations automatically via computer programming.
+
+what is Artificial Intelligence?
+my system answer: => (Weight0.8)<=> 'Artificial intelligence' ('AI', also 'machine intelligence', 'MI') is intelligence demonstrated by machines, in contrast to the 'natural intelligence' ('NI') displayed by humans and other animals.
+correct answer:Artificial intelligence (AI) is an area of computer science that emphasizes the creation of intelligent machines that work and react like humans.
+
+#####where question#####
+=?> where is Bangladesh?
+my system answer:=> (Weight0.8)<=> Nepal, Bhutan and China are located near Bangladesh but do not share a border with it.
+ possible correct answer: Bangladesh is a country in South Asia. It shares land borders with India and Myanmar (Burma). Nepal, Bhutan and China are located near Bangladesh but do not share a border with it.
+where is India?
+=> (Weight0.4)<=> In the Indian Ocean, India is in the vicinity of Sri Lanka and the Maldives.
+
+where is China?
+my system answer: => (Weight0.8)<=>  The PRC is a member of the United Nations, as it replaced the ROC as a permanent member of the UN Security Council in 1971.
+
+possible correct answer: China is a unitary sovereign state in East Asia and the worlds most populous country, with a population of around .
+
+where is Nepal?
+my system answer: => (Weight0.8)<=>  ), officially the 'Federal Democratic Republic of Nepal' ( ), is a landlocked country in South Asia located mainly in the Himalayas but also includes plains that extend to the northern India.
+
+where is London?
+my system answer: => (Weight0.4)<=>  'London' () is the capital and most populous city of England and the United Kingdom.
+
+where is Michigan?
+my system answer: => (Weight0.4)<=>  'Michigan' () is a state in the Great Lakes and Midwestern regions of the United States.
+
+where is Virginia?
+my system answer: => (Weight0.8)<=>  'Virginia' (; officially the 'Commonwealth of Virginia') is a state in the Southeastern and Mid-Atlantic regions of the United States located between the Atlantic Coast and the Appalachian Mountains.
+
+where is Dubai?
+my system answer:=> (Weight0.8)<=> It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country.
+where is Newzealand?
+my system answer: => (Weight0.4)<=>  'New Zealand' (; ) is an island country in the southwestern Pacific Ocean.
+
+wwhere is Pakistan?
+my system answer: => (Weight0.4)<=> Pakistan is a member of the United Nations, the Non-Aligned Movement, the Organisation of Islamic Cooperation, the Commonwealth of Nations, the Economic Cooperation Organisation,
+the Shanghai Cooperation Organisation, the South Asian Association for Regional Cooperation, the Developing Eight, and the G20 developing nations, Group of 24, Group of 77, and ECOSOC.
+
+where is Italy?
+my system answer: => (Weight0.8)<=> Located in the heart of the Mediterranean Sea, Italy shares open land borders with France, Switzerland, Austria, Slovenia, San Marino, and Vatican City.
+#######when#######
+when was the First Computer Invented?
+my system answer: => Sorry I don't know this Question  answer.
+correct answer:First programmable computer. The Z1 was created by German Konrad Zuse in his parents' living room between 1936 and 1938. It is considered to be the first electro-mechanical binary programmable computer, and the first really functional modern computer
+
+
+when is Mothers Day?
+my system answer:=> (Weight0.8)<=> It is celebrated on various days in many parts of the world, most commonly in the months of March or May.
+correct answer:Sunday, May 13 ,2018 is the Mother's Day in United States of America.
+
+
+when is Fathers Day?
+my system answer: => (Weight0.8)<=> In Catholic Europe, it has been celebrated on March 19 (St.
+correct answer:Sunday, june 2018 ,2018 is the Mother's Day in United States of America.
+
+when is Memorial Day?
+my system answer: => (Weight0.4)<=>  'Memorial Day' or 'Decoration Day' is a federal holiday in the United States for remembering the people who died while serving in the country's armed forces.
+
+correct answer:Monday, May 28,2018 is the Memorial Day  in United States of America.
+
+when is Easter?
+my system answer: => (Weight0.4)<=> Easter is linked to the Jewish Passover by much of its symbolism, as well as by its position in the calendar.
+
+
+when is Labour Day?
+my system answer: => (Weight0.8)<=> For other countries, Labour Day is celebrated on a different date, often one with special significance for the labour movement in that country.
